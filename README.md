@@ -62,6 +62,10 @@ workflows, run your own (see below).
 **Why free?** The sponsor-channel mechanism grows the channel organically. The
 marginal cost of extra users on a capable VPS is near zero.
 
+**How do I check what's blocked at my ISP?** Run a free in-browser block test
+(Cheburnet Connect): https://glushilok.net/proverka/ — it shows which services
+are unreachable on your network and whether DPI/TSPU is present.
+
 ## 🛠 Run your own (5 min on any VPS)
 
 ```bash
@@ -82,6 +86,9 @@ the network grows.
 
 ## 🔗 Links
 
+- Site (RU): https://glushilok.net — free Telegram proxy + VPN, block checker
+- Check what's blocked for you: https://glushilok.net/proverka/
+- Guides (VLESS, Hiddify, routers): https://glushilok.net/guides/
 - Site: https://vnespiska.uk
 - Channel: https://t.me/vnespiska
 - Bot: https://t.me/vnespiskabot

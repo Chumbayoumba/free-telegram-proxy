@@ -7,6 +7,7 @@
 [![Proxies](https://img.shields.io/badge/proxy-online-brightgreen)](./all_proxies.txt)
 [![Type](https://img.shields.io/badge/type-fake--TLS-blue)](./all_proxies.txt)
 [![Channel](https://img.shields.io/badge/Telegram-@vnespiska-26A5E4)](https://t.me/vnespiska)
+[![Mirror](https://img.shields.io/badge/mirror%20(RU)-goida.win-success)](https://goida.win/)
 
 ## ⚡ Quick start
 
@@ -86,6 +87,7 @@ the network grows.
 
 ## 🔗 Links
 
+- Mirror not blocked in Russia: https://goida.win — Telegram proxy + VPN, whitelist bypass (RU)
 - Site (RU): https://glushilok.net — free Telegram proxy + VPN, block checker
 - Check what's blocked for you: https://glushilok.net/proverka/
 - Guides (VLESS, Hiddify, routers): https://glushilok.net/guides/

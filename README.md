@@ -10,24 +10,30 @@
 [![Channel](https://img.shields.io/badge/Telegram-@vnespiska-26A5E4)](https://t.me/vnespiska)
 [![Mirror](https://img.shields.io/badge/mirror%20(RU)-goida.win-success)](https://goida.win/)
 
-## ⚡ Quick start
+## ⚡ Working proxies right now — checked from Russia
 
-Tap the link on your phone — Telegram will offer to add the proxy automatically:
+Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
-`tg://proxy?server=promo.vnespiska.org&port=443&secret=eef99265993307004249d0021d489786ef7461736b666c6f772e65676f722d6465762e7275`
+<!-- UPDATED:START -->
+> 🟢 **Обновлено: 02.10.2026 06:21 МСК** · рабочих прокси: **8** · каждый проверен подключением с российского сервера
+<!-- UPDATED:END -->
 
-Or open in a browser:
+<!-- LIVE:START -->
+| # | Сервер | Порт | Пинг из РФ | Подключить |
+|---|--------|------|-----------|------------|
+| 1 | `94.139.247.202` | `443` | 🟢 3 мс | **[⚡ Подключить](https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d)** |
+| 2 | `ppl.vpnpplvpn.top` | `8443` | 🟢 6 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 3 | `132.243.231.76` | `443` | 🟢 30 мс | **[⚡ Подключить](https://t.me/proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275)** |
+| 4 | `edge.turboass.live` | `443` | 🟡 84 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 5 | `host.white-dns.info` | `443` | 🟡 92 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 6 | `ultra.mishutkin.click` | `443` | 🟡 105 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
+| 7 | `90.156.216.188` | `8443` | 🟢 3 мс | **[⚡ Подключить](https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d)** |
+| 8 | `193.39.15.115` | `443` | 🟠 3093 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+<!-- LIVE:END -->
 
-https://t.me/proxy?server=promo.vnespiska.org&port=443&secret=eef99265993307004249d0021d489786ef7461736b666c6f772e65676f722d6465762e7275
-
-Or copy parameters manually:
-
-| Field | Value |
-|---|---|
-| Server | `promo.vnespiska.org` |
-| Port | `443` |
-| Secret | `eef99265993307004249d0021d489786ef7461736b666c6f772e65676f722d6465762e7275` |
-| Type | MTProto (fake-TLS / EE) |
+> 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.
+>
+> 🛑 Telegram doesn't work even with a proxy (mobile internet white lists in Russia)? → **[VPN in @vnespiskabot](https://t.me/vnespiskabot?start=promo_VNESPISKA_gh_en)**: Basic plan free forever, Premium 239 ₽ with promo code `VNESPISKA`.
 
 ## 🆕 WEB proxy for Telegram Desktop — free
 
@@ -115,7 +121,7 @@ the network grows.
 - Site (RU): https://glushilok.net — free Telegram proxy + VPN, block checker
 - Check what's blocked for you: https://glushilok.net/proverka/
 - Guides (VLESS, Hiddify, routers): https://glushilok.net/guides/
-- Site: https://vnespiska.uk
+- Site: https://vnespiska.win
 - Channel: https://t.me/vnespiska
 - Bot: https://t.me/vnespiskabot
 - Official MTProxy: https://github.com/TelegramMessenger/MTProxy
